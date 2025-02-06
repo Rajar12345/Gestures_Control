@@ -26,6 +26,13 @@ Control your laptop using hand gestures via webcam! This project uses OpenCV, Me
    - Index + middle fingers apart = Scroll down
    - Thumb + index together = Open AI (Alt + Space)
 
+## 📽️ Demo Video  
+
+### 🔗 **Direct Video Link**  
+[Watch the demo video](https://github.com/Rajar12345/Gestures_Control/blob/main/demo.mp4.mp4)  
+
+### Plz download and see
+
 ## Additional Info
 🛠 Requires a webcam
 💡 Works on Windows & Linux
